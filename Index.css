@@ -1,0 +1,23 @@
+body 
+{
+    /*beggining to the body background color edits*/
+    background-color: rgb(147, 183, 196);
+    background-image: linear-gradient(90deg, rgb(144, 192, 255),rgb(153, 163, 98));
+    text-align: center;
+    font-family: cursive;
+}
+
+h1
+{
+    /*beggining to the header text*/
+    
+    font-size: xxx-large;
+    
+}
+p
+{
+    /*editing the additional header text*/
+
+    font-size: xx-large;
+    
+}

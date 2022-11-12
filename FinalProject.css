@@ -1,0 +1,36 @@
+body 
+{
+    /*beggining to the body background color edits*/
+    background-color: lightblue;
+    background-image: linear-gradient(90deg, rgb(150, 216, 221),rgb(106, 60, 126));
+}
+title
+{
+    /*beggining to the header text*/
+    text-align: left;
+    font-size: xxx-large;
+    font-family: cursive;
+}
+h1
+{
+    /*editing the additional header text*/
+    text-align: left;
+    font-size: x-large;
+    font-family: cursive;
+}
+h1
+{
+    /*editing the additional header text*/
+    text-align: left;
+    font-size: large;
+    font-family: cursive;
+}
+button 
+{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+}
+
+
